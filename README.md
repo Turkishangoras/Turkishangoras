@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Ali Nawwaf
 
-<!--
-**Turkishangoras/Turkishangoras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science diploma student building skills in Python, software development, and data analysis.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- Java
+- Kotlin
+- C++
+- pandas
+- matplotlib
+- Jupyter Notebook
+- Android Studio
+- VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Sales Dashboard Project](https://github.com/Turkishangoras/sales-dashboard-project)
+
+## Current Goal
+To gain practical experience through remote internship opportunities in computer science and related technical roles.
+
+## Contact
+- Email: a.nawwaff@gmail.com
