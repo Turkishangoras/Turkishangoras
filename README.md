@@ -92,7 +92,7 @@ A full-featured Android application designed to help pet owners manage and track
 ## 🎯 Current Focus
 - Building real-world projects  
 - Improving data analysis & ML skills  
-- Preparing for software engineering internships  
+- Exploring different areas of computer science through practical projects
 
 ---
 
