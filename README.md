@@ -14,7 +14,7 @@
 
 ## 📂 Projects
 
-### 🐾 PetSync - Android Pet Health Manager
+### 🐾 PetSync - Android Pet Health Tracker
 - A modern Android app for tracking pet medical records, vaccinations, and daily routines.
 - Built with **Jetpack Compose**, **MVVM architecture**, and **Material 3**.
 - Features real-time data synchronization via **Firebase Firestore** and **Cloud Storage**.
