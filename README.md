@@ -1,75 +1,95 @@
 # 👋 Hi, I'm Ali Nawwaf
 
-💻 Computer Science Diploma Student  
-🌍 Based in Malaysia  
-🚀 Aspiring Software Developer & Data Analyst  
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Science+Student;Aspiring+Software+Developer;Learning+Data+Science+%26+ML;Building+Real+Projects&font=Fira%20Code&center=false&width=500&height=45&color=58A6FF&vCenter=true&size=22">
+</p>
 
 ---
 
 ## 🚀 About Me
-I’m a Computer Science student interested in software development and data analysis.  
-Currently developing my skills by building practical projects and learning modern tools.
+
+I’m a Computer Science student learning to build real-world applications using software development and data analysis.  
+Currently focused on improving my skills by working on practical, deployable projects.
 
 ---
 
 ## 🧠 Skills
 
 ### 💻 Programming
-- Python, Java, C++
+Python
+Java
+C++
+
+---
 
 ### 📱 Mobile Development
-- Kotlin, Jetpack Compose, Android Studio  
-- MVVM Architecture, Material 3  
+Kotlin
+Jetpack Compose
+Android Studio
+
+---
 
 ### 📊 Data Science & ML
-- pandas, numpy, scikit-learn  
-- Data preprocessing & feature engineering  
-- Model evaluation (ROC-AUC, classification report)
+Pandas
+NumPy
+Scikit-learn
+
+---
 
 ### 🛠️ Tools
-- Git & GitHub  
-- Firebase (Firestore, Cloud Storage)  
-- VS Code, PyCharm, Jupyter Notebook  
+Git
+GitHub
+Firebase
+VS Code
 
 ---
 
 ## 📂 Projects
 
-### 🔥 Customer Churn Prediction Web App (LIVE)
-- Built a machine learning model to predict customer churn using Random Forest
-- Performed full pipeline: preprocessing → training → evaluation → deployment
-- Developed an interactive Streamlit dashboard
-- Visualized feature importance using Plotly
-- Deployed on Streamlit Cloud
+### 🐾 PetSync - Android Pet Health Tracker (FLAGSHIP PROJECT)
+A full-featured Android application designed to help pet owners manage and track their pets’ health, routines, and medical records.
 
-🌐 Live App: [https://your-streamlit-link-here ](https://customer-churn-prediction-ltfrwumuspqctuawswuudr.streamlit.app/) 
-🔗 GitHub: https://github.com/Turkishangoras/customer-churn-prediction  
-
----
-
-### 🐾 PetSync - Android Pet Health Tracker
-- Android app for managing pet health records & routines  
-- Built with Jetpack Compose + MVVM architecture
-- Real-time sync using Firebase Firestore
-- Notifications using AlarmManager
+- Developed using Kotlin and Jetpack Compose with a clean MVVM architecture
+- Implemented real-time cloud synchronization using Firebase Firestore and Cloud Storage
+- Designed a modern, responsive UI following Material 3 design principles
+- Built a notification system using AlarmManager for reminders such as vaccinations and medications
+- Structured the app with scalable components for maintainability and future expansion
 
 🔗 https://github.com/Turkishangoras/PetSync  
 
 ---
 
-### 📊 Sales Dashboard Project
-- Data visualization project using Python  
-- Analyzed and visualized monthly sales trends  
-- Created line and bar charts using matplotlib  
+### 🔥 Customer Churn Prediction Web App (LIVE)
+- Built a machine learning model using Random Forest
+- End-to-end pipeline: preprocessing → training → evaluation → deployment
+- Interactive Streamlit dashboard
+- Feature importance visualization using Plotly
 
-🔗 https://github.com/Turkishangoras/sales-dashboard-project  
+🌐 Live App: https://customer-churn-prediction-ltfrwumuspqctuawswuudr.streamlit.app/ 
+🔗 https://github.com/Turkishangoras/customer-churn-prediction  
+
+---
+
+### 📊 Sales Dashboard Project
+- Data analysis using Python  
+- Visualized sales trends using charts  
+
+🔗 https://github.com/Turkishangoras/sales-dashboard-project
+
+---
+
+## 📈 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Turkishangoras&show_icons=true&theme=tokyonight">
+</p>
 
 ---
 
 ## 🎯 Current Focus
-- Building real-world deployable projects
-- Strengthening data analysis & ML skills
-- Preparing for software engineering internships
+- Building real-world projects  
+- Improving data analysis & ML skills  
+- Preparing for software engineering internships  
 
 ---
 
@@ -78,4 +98,5 @@ Currently developing my skills by building practical projects and learning moder
 - 💼 LinkedIn: https://www.linkedin.com/in/ali-nawwaf-b03311116  
 
 ---
+
 ⭐ Always learning, building, and improving.
