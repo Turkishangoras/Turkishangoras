@@ -71,9 +71,13 @@ A full-featured Android application designed to help pet owners manage and track
 
 ---
 
-### 📊 Sales Dashboard Project
-- Data analysis using Python  
-- Visualized sales trends using charts  
+### 📊 Data Science & ML
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 
 🔗 https://github.com/Turkishangoras/sales-dashboard-project
 
