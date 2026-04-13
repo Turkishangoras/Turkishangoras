@@ -4,22 +4,25 @@
 🌍 Based in Malaysia  
 🚀 Aspiring Software Developer / Data Analyst  
 
----
-
-## 🧠 Skills
-- Python  
-- Java  
-- Kotlin  
-- C++  
-- pandas  
-- matplotlib  
-- Jupyter Notebook  
-- Android Studio  
-- VS Code  
+---## 🧠 Skills
+- **Mobile Development:** Kotlin, Jetpack Compose, Android Studio
+- **Data Science:** Python, pandas, matplotlib, Jupyter Notebook
+- **Languages:** Java, C++, Python
+- **Tools:** VS Code, Firebase, Git/GitHub
 
 ---
 
 ## 📂 Projects
+
+### 🐾 PetSync - Android Pet Health Manager
+- A modern Android app for tracking pet medical records, vaccinations, and daily routines.
+- Built with **Jetpack Compose**, **MVVM architecture**, and **Material 3**.
+- Features real-time data synchronization via **Firebase Firestore** and **Cloud Storage**.
+- Implements precise background notifications using **AlarmManager**.
+
+🔗 [View Project](https://github.com/Turkishangoras/PetSync)
+
+---
 
 ### 📊 Sales Dashboard Project
 - Built using Python, pandas, and matplotlib  
@@ -31,11 +34,12 @@
 ---
 
 ## 🎯 Current Focus
-- Building real-world Python projects  
+- Building real-world Android and Python projects  
 - Improving data analysis & visualization skills  
-- Preparing for remote internships  
+- Preparing for software engineering internships  
 
 ---
 
 ## 📫 Contact
-- Email: a.nawwaff@gmail.com
+- **Email:** a.nawwaff@gmail.com
+- **LinkedIn:** [Your Name/Link here]
