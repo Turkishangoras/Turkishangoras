@@ -42,4 +42,4 @@
 
 ## 📫 Contact
 - **Email:** a.nawwaff@gmail.com
-- **LinkedIn:** [Ali Nawwaf/www.linkedin.com/in/ali-nawwaf-b03311116]
+- **LinkedIn:** [Ali Nawwaf / www.linkedin.com/in/ali-nawwaf-b03311116]
