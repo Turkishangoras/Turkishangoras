@@ -30,9 +30,12 @@ Android Studio
 ---
 
 ### 📊 Data Science & ML
-Pandas
-NumPy
-Scikit-learn
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?style=for-the-badge)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
 
 ---
 
@@ -71,13 +74,10 @@ A full-featured Android application designed to help pet owners manage and track
 
 ---
 
-### 📊 Data Science & ML
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=plotly&logoColor=black)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E86C1?style=for-the-badge)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) 
+### 📊 Sales Dashboard Project
+
+- Data analysis using Python
+- Visualized sales trends using charts
 
 🔗 https://github.com/Turkishangoras/sales-dashboard-project
 
@@ -85,7 +85,7 @@ A full-featured Android application designed to help pet owners manage and track
 
 ## 📈 GitHub Stats
 
-[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkishangoras&show_icons=true&theme=tokyonight)](https://github.com/Turkishangoras)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkishangoras&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
