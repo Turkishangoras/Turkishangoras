@@ -6,7 +6,7 @@
 
 ---## 🧠 Skills
 - **Mobile Development:** Kotlin, Jetpack Compose, Android Studio
-- **Data Science:** Python, pandas, matplotlib, Jupyter Notebook
+- **Data Science:** Python, pandas, numpy, seaborn, MinMaxScaler, labelEncoder, matplotlib, Jupyter Notebook
 - **Languages:** Java, C++, Python
 - **Tools:** VS Code, Firebase, Git/GitHub
 
