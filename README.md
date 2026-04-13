@@ -16,16 +16,16 @@ Currently focused on improving my skills by working on practical, deployable pro
 ## 🧠 Skills
 
 ### 💻 Programming
-Python
-Java
-C++
+- Python
+- Java
+- C++
 
 ---
 
 ### 📱 Mobile Development
-Kotlin
-Jetpack Compose
-Android Studio
+- Kotlin
+- Jetpack Compose
+- Android Studio
 
 ---
 
@@ -40,10 +40,12 @@ Android Studio
 ---
 
 ### 🛠️ Tools
-Git
-GitHub
-Firebase
-VS Code
+- Git
+- GitHub
+- Firebase
+- VS Code
+- PyCharm
+- IntelliJ
 
 ---
 
@@ -85,7 +87,7 @@ A full-featured Android application designed to help pet owners manage and track
 
 ## 📈 GitHub Stats
 
-![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkishangoras&show_icons=true&theme=tokyonight&cache_seconds=1800)
+![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkishangoras&show_icons=true&theme=tokyonight&cache_seconds=1800&hide_border=true)
 
 ---
 
