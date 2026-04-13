@@ -81,9 +81,7 @@ A full-featured Android application designed to help pet owners manage and track
 
 ## 📈 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Turkishangoras&show_icons=true&theme=tokyonight">
-</p>
+[![Ali's GitHub stats](https://github-readme-stats.vercel.app/api?username=Turkishangoras&show_icons=true&theme=tokyonight)](https://github.com/Turkishangoras)
 
 ---
 
